@@ -1,0 +1,6 @@
+reportlab
+PyPDF2
+pandas
+qrcode
+tqdm
+openpyxl
